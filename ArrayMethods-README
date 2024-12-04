@@ -48,7 +48,7 @@ public static boolean arrayAllEqual(int[] a)
   arrayAllEqual determines if all of the items in the array are the same and
   returns true if this is the case and false otherwise.
 
-public static double[] arrayRollingAverage(int[] a, b)
+public static double[] arrayRollingAverage(int[] a, int b)
   arrayRollingAverage calculates a rolling average of b values for each index in
   the array. These values are stored and then returned in an array of doubles.
   For example, the returned value at index i should contain the average of the
